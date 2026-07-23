@@ -39,7 +39,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/GkayCode/1--Signup-Login-Users-List-with-express.js-and-ejs.git
 ```
 
 Install dependencies:
@@ -120,7 +120,7 @@ project/
 Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/kullanici-adi/proje-adi.git
+git clone https://github.com/GkayCode/1--Signup-Login-Users-List-with-express.js-and-ejs.git
 ```
 
 Bağımlılıkları yükleyin:
